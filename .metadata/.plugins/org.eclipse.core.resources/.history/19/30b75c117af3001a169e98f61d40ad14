@@ -1,0 +1,11 @@
+
+public class Main {
+	public static void main(String[] args) {
+		
+		double x = (18 + 17) / 2.0;
+		
+		System.out.print(x);
+		
+		
+	}
+}
